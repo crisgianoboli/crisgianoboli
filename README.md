@@ -1,11 +1,11 @@
 # Hola, mi nombre es Cristian Gianoboli 👋
 ## Front-end Developer
 
-### Brindo soluciones de desarrollo de software en entorno a Javascript, utilizando React y librerías relacionadas.
+### Brindo soluciones de desarrollo de software en entorno a Javascript, utilizando ReactJs, NextJs y librerías relacionadas.
 ### Me considero una persona sociable, extrovertida, dedicada, autodidacta,curiosa y con gusto por el trabajo en equipo.
 
 - Fan del desarrolo web 🤓
-- Investigador de nuevas tecnologias, Mundo Crypto 🧐
+- Investigador de nuevas tecnologias, Inteligencia Artificial, Crypto 🧐
 - Intento de jugador de Basquetball 😆
 
 ### Con qué tecnologías trabajo 
