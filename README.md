@@ -4,8 +4,8 @@
 ### Brindo soluciones de desarrollo de software en entorno a Javascript, utilizando ReactJs, NextJs y librerías relacionadas.
 ### Me considero una persona sociable, extrovertida, dedicada, autodidacta,curiosa y con gusto por el trabajo en equipo.
 
-- Fan del desarrolo web 🤓
-- Investigador de nuevas tecnologias, Inteligencia Artificial, Crypto 🧐
+- Fan del desarrolo web y ciberseguridad 🤓
+- Investigador de nuevas tecnologias 🧐
 - Intento de jugador de Basquetball 😆
 
 ### Con qué tecnologías trabajo 
